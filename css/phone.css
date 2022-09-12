@@ -1,0 +1,31 @@
+body{
+    box-sizing: border-box;
+}
+
+/* Navigation Section */
+#navbar{
+    flex-direction: column;
+}
+
+/* Home Section */
+
+#home{
+    height: 280p;
+    flex-direction: column;
+}
+/* Service Section */
+#services{
+  flex-direction: column;
+}
+#services .box{
+  
+}
+/* Client Section */
+#Clients{
+    overflow: hidden;
+}
+/* Contact Section */
+#contact{
+
+}
+/* Footer Section */
